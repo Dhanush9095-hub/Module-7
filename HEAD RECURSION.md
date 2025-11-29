@@ -38,16 +38,6 @@ fun(num)
 ```
 
 ## OUTPUT
-```
-Enter a positive integer: 5
-Adjusted input (even number): 6
-Sequence (head recursion):
-Current value: 1, Sum of digits: 1
-Current value: 2, Sum of digits: 2
-Current value: 3, Sum of digits: 3
-Current value: 4, Sum of digits: 4
-Current value: 5, Sum of digits: 5
-Current value: 6, Sum of digits: 6
-```
+<img width="1254" height="256" alt="image" src="https://github.com/user-attachments/assets/c49e26d9-1851-4c1a-a8c8-758fd3182596" />
 ## RESULT
 Hence  demonstrated **Head Recursion** by finding and printing the sequence based on the sum of all digits (even or odd adjusted input).
