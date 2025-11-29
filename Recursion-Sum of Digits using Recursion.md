@@ -31,10 +31,7 @@ print(f"Result of Taylor series for x={x} and n={n} is: {result}")
 
 ```
 ## OUTPUT
-```
-Enter the value of x: 2
-Enter the value of n (number of terms): 4
-Result of Taylor series for x=2.0 and n=4 is: 8.083333333333334
-```
+<img width="467" height="220" alt="Screenshot 2025-09-08 085403" src="https://github.com/user-attachments/assets/6966fc70-cf5d-4722-8f75-20cf7a6682cb" />
+
 ## RESULT
-Hence evaluated a **Taylor Series** using **recursion**, where values of `x` and `n` are taken from the user.
+Thus the output is verified.
