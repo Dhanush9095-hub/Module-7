@@ -36,9 +36,7 @@ else:
 
 ```
 ## OUTPUT
-```
-Enter a string: racecar
-"racecar" is a palindrome.
-```
+<img width="356" height="166" alt="image" src="https://github.com/user-attachments/assets/ef975f79-7672-4d3f-b99f-2364fdcfeb64" />
+
 ## RESULT
-Hence checked whether a given string is a **palindrome** using **recursion**.
+Thus the Nested recursion is verified.
