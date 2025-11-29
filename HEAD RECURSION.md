@@ -39,5 +39,6 @@ fun(num)
 
 ## OUTPUT
 <img width="1254" height="256" alt="image" src="https://github.com/user-attachments/assets/c49e26d9-1851-4c1a-a8c8-758fd3182596" />
+
 ## RESULT
-Hence  demonstrated **Head Recursion** by finding and printing the sequence based on the sum of all digits (even or odd adjusted input).
+Thus the required head recursion ouput is Verified.
