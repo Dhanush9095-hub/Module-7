@@ -41,10 +41,7 @@ print(f"sinh({x}) using {n} terms is: {result}")
 
 ```
 ## OUTPUT
-```
-Enter the value of x: 2
-Enter the number of terms (n): 4
-sinh(2.0) using 4 terms is: 3.626860407847019
-```
+<img width="550" height="225" alt="image" src="https://github.com/user-attachments/assets/eb2d8220-487d-4752-9657-c21830280ea6" />
+
 ## RESULT
-Hence evaluated sinh(x) using n terms of its Taylor series via recursion.
+Thus the required output is got and verified.
